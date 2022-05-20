@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hello ~ 👋
+
+ My Site: [Lanminy](https://github.com/Lanminy)
+
+ - 🥀 2021
+ - 📖 I have been learning Python/Android reverse analysis recently
+ - 💬 WeChat ID: sainmer
 
 <!--
-**Lanminy/Lanminy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZCKun/ZCKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Lanminy&show_icons=true&count_private=true)](https://github.com/Lanminy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanminy&layout=compact)](https://github.com/Lanminy)
